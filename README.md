@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adonis1120
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on WordPress
+- 💞️ I’m interested in programming
+- 👀 I’m looking to collaborate on WordPress
+- 🌱 I continuously learn web development and grow in this area
 - 📫 How to reach me ... aimperial.net
 
 <!---
