@@ -2,13 +2,13 @@
 <br>👋 Hi, I’m Adonis Bilagot Imperial
 <br>💞️ I’m interested in Web Development
 
--> 🌱 Visual Basic was my foundation in Computer Science, sparking my passion for development.
-<br>-> 🌐 Now, I specialize in Web Development, focusing on PHP and Laravel.
-<br>-> 📈 I also have a background in SEO through training and apply best practices in web development.
-<br>-> 👀 I’m looking to collaborate on PHP, Laravel and WordPress projects.
-<br>-> 📚 Continuously learning web technologies and grow in this area.
-<br>-> 🚀 Always eager to collaborate on exciting projects and share knowledge.
-<br>-> 📫 Reach me at aimperial.net.
+<br>- 🌱 <strong>Visual Basic</strong> was my foundation in Computer Science, sparking my passion for development.
+<br>- 🌐 Now, I specialize in Web Development, focusing on <strong>PHP</strong> and <strong>Laravel</strong>.
+<br>- 📈 I also have a background in <strong>SEO</strong> through training and apply best practices in web development.
+<br>- 👀 I’m looking to collaborate on <strong>PHP</strong>, <strong>Laravel</strong> and <strong>WordPress</strong> projects.
+<br>- 📚 Continuously learning web technologies and grow in this area.
+<br>- 🚀 Always eager to collaborate on exciting projects and share knowledge.
+<br>- 📫 Reach me at <a href="https://www.facebook.com/aimperial.net">aimperial.net</a>.
 
 <!---
 Adonis1120/Adonis1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
