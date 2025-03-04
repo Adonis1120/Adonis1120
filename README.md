@@ -21,6 +21,9 @@ Current: 10 repositories with (4 actual projects)
 <strong>WordPress</strong>
 <br>DCE Website - Personal and political website of the city mayor of Tabuk, Engr. Darwin C. Estrañero; with Social Network, Messaging and Forum.
 
+From 𝑽𝒊𝒔𝒖𝒂𝒍 𝑩𝒂𝒔𝒊𝒄 to mastering 𝑷𝑯𝑷 𝒂𝒏𝒅 𝑳𝒂𝒓𝒂𝒗𝒆𝒍, my journey as a 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 has been all about 𝒈𝒓𝒐𝒘𝒕𝒉, 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏, and building real 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔. Whether it’s developing management information system, standalone software, web application or dynamic websites, I’m always ready for new challenges.
+Always learning, always building. Let’s create something incredible!
+
 <!---
 Adonis1120/Adonis1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
