@@ -12,14 +12,14 @@
 Current: 10 repositories with (4 actual projects)
 
 <strong>VB.Net</strong>
-CoopMS - Cooperative Management System
+<br>CoopMS - Cooperative Management System
 
 <strong>Laravel</strong>
-DCE Tabulator - Online Tabulation System for Different Contest (e.g. Pageant, Street Dance, Singing Contest, etc.).
-CoopHub - Tabuk City Cooperatives Enterprise and Developement Office (CCEDO) Cooperative Profiling and Management System.
+<br>DCE Tabulator - Online Tabulation System for Different Contest (e.g. Pageant, Street Dance, Singing Contest, etc.).
+<br>CoopHub - Tabuk City Cooperatives Enterprise and Developement Office (CCEDO) Cooperative Profiling and Management System.
 
 <strong>WordPress</strong>
-DCE Website - Personal and political website of the city mayor of Tabuk, Engr. Darwin C. Estrañero; with Social Network, Messaging and Forum.
+<br>DCE Website - Personal and political website of the city mayor of Tabuk, Engr. Darwin C. Estrañero; with Social Network, Messaging and Forum.
 
 <!---
 Adonis1120/Adonis1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
