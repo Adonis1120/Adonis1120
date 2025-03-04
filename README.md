@@ -3,7 +3,7 @@
 <br>💞️ I’m interested in Web Development<br>
 <br>- 🌱 <strong>Visual Basic</strong> was my foundation in Computer Science, sparking my passion for development.
 <br>- 🌐 Now, I specialize in Web Development, focusing on <strong>PHP</strong> and <strong>Laravel</strong>.
-<br>- 📈 I also have a background in <strong>SEO</strong> through training and apply best practices in web development.
+<br>- 📈 I also have a background in <strong>SEO</strong> through training and applying best practices in web development.
 <br>- 👀 I’m looking to collaborate on <strong>PHP</strong>, <strong>Laravel</strong> and <strong>WordPress</strong> projects.
 <br>- 📚 Continuously learning web technologies and grow in this area.
 <br>- 🚀 Always eager to collaborate on exciting projects and share knowledge.
