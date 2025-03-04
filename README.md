@@ -1,6 +1,7 @@
 💻 <strong>Software Developer | Desktop to Web Development</strong>
 <br>👋 Hi, I’m Adonis Bilagot Imperial
-<br>💞️ I’m interested in Web Development<br>
+<br>💞️ I’m interested in Web Development
+<br>
 Current: 10 repositories with (4 actual projects)
 <br>- 🌱 <strong>Visual Basic</strong> was my foundation in Computer Science, sparking my passion for development.
 <br>- 🌐 Now, I specialize in Web Development, focusing on <strong>PHP</strong> and <strong>Laravel</strong>.
