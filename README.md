@@ -15,7 +15,7 @@ Current: 10 repositories with (4 actual projects)
 <br>CoopMS - Cooperative Management System
 
 <strong>Laravel</strong>
-<br>DCE Tabulator - Online Tabulation System for Different Contest (e.g. Pageant, Street Dance, Singing Contest, etc.).
+<br>DCE Tabulator - Online Tabulation System for Different Contest (e.g. Pageant, Street Dancing, Singing Contest, etc.).
 <br>CoopHub - Tabuk City Cooperatives Enterprise and Developement Office (CCEDO) Cooperative Profiling and Management System.
 
 <strong>WordPress</strong>
