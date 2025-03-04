@@ -15,8 +15,8 @@ Current: 10 repositories with (4 actual projects)
 CoopMS - Cooperative Management System
 
 <strong>Laravel</strong>
-DCE Tabulator - Online Tabulation System for Different Contest (e.g. Pageant, Street Dance, Singing Contest, etc.)
-CoopHub - Tabuk City Cooperatives Enterprise and Developement Office (CCEDO) Cooperative Profiling and Management System
+DCE Tabulator - Online Tabulation System for Different Contest (e.g. Pageant, Street Dance, Singing Contest, etc.).
+CoopHub - Tabuk City Cooperatives Enterprise and Developement Office (CCEDO) Cooperative Profiling and Management System.
 
 <strong>WordPress</strong>
 DCE Website - Personal and political website of the city mayor of Tabuk, Engr. Darwin C. Estrañero; with Social Network, Messaging and Forum.
