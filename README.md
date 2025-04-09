@@ -5,6 +5,8 @@
 <br>- 🌐 Now, I specialize in Web Development, focusing on <strong>PHP</strong> and <strong>Laravel</strong>.
 <br>- 📈 I also have a background in <strong>SEO</strong> through training and applying best practices in web development.
 <br>- 👀 I’m looking to collaborate on <strong>PHP</strong>, <strong>Laravel</strong> and <strong>WordPress</strong> projects.
+<br>- 🛠️ Proficient with <strong>Livewire</strong>, <strong>Volt</strong>, <strong>Tailwind CSS</strong>, and <strong>SASS</strong>, with working knowledge of <strong>JavaScript</strong> and <strong>CSS</strong>.
+<br>- 📚 Additional skills include Livewire, Volt, Tailwind and SASS with basics on JS and CSS.
 <br>- 📚 Continuously learning web technologies and grow in this area.
 <br>- 🚀 Always eager to collaborate on exciting projects and share knowledge.
 <br>- 📫 Reach me at <a href="https://www.facebook.com/aimperial.net">aimperial.net</a>.
