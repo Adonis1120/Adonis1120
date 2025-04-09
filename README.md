@@ -11,7 +11,7 @@
 <br>- 🚀 Always eager to collaborate on exciting projects, maintaining programming principles like <strong>SOLID</strong> and <strong>DRY</strong>, and sharing knowledge.
 <br>- 📫 Reach me at <a href="https://www.facebook.com/aimperial.net">aimperial.net</a>.
 
-Current: 11 private repositories with (4 actual applied projects)
+Current: 11 private repositories (4 major projects)
 
 <strong>VB.Net</strong>
 <br>CoopMS - Cooperative Management System
