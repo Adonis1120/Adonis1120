@@ -1,4 +1,4 @@
-💻 <strong>Software Developer | Desktop to Web Development</strong>
+💻 <strong>Software Developer | Desktop App to Web Development</strong>
 <br>👋 Hi, I’m Adonis Bilagot Imperial
 <br>💞️ I’m interested in Web Development<br>
 <br>- 🌱 <strong>Visual Basic</strong> was my foundation in Computer Science, sparking my passion for Software Development.
