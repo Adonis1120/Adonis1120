@@ -2,7 +2,7 @@
 <br>👋 Hi, I’m Adonis Bilagot Imperial
 <br>💞️ I’m interested in Web Development<br>
 <br>- 🌱 <strong>Visual Basic</strong> was my foundation in Computer Science, sparking my passion for Software Development.
-<br>- 🌐 Now, I specialize in Web Development, focusing on <strong>PHP</strong> and <strong>Laravel</strong>.
+<br>- 🌐 Now, I specialize in Web Development, focusing on <strong>Laravel</strong> and <strong>WordPress</strong>, built on a strong foundation in <strong>PHP</strong>.
 <br>- 📈 I also have a background in <strong>SEO</strong> through training and applying best practices in web development.
 <br>- 👀 I’m looking to collaborate on <strong>PHP</strong> projects, especially with <strong>Laravel</strong> and <strong>WordPress</strong>.
 <br>- 🛠️ I also work with <strong>Livewire</strong>, <strong>Volt</strong>, <strong>Tailwind CSS</strong>, and <strong>SASS</strong>, with a basic understanding of <strong>JavaScript</strong> and <strong>CSS</strong>.
