@@ -2,17 +2,16 @@
 <br>👋 Hi, I’m Adonis Bilagot Imperial
 <br>💞️ I’m interested in Web Development<br>
 <br>- 🌱 <strong>Visual Basic</strong> was my foundation in Computer Science, sparking my passion for Software Development.
-<br>- 🌱 <strong>Visual Basic</strong> sparked my passion for software development, and today I continue building on that with <strong>VB.NET</strong> in my projects.
-<br>- 🌐 Now, I specialize in Web Development, focusing on <strong>Laravel</strong> and <strong>WordPress</strong>, built on a strong foundation in <strong>PHP</strong>.
+<br>- 🖥️ I continue building Windows applications with <strong>VB.NET</strong>, having completed a few projects in this area.
 <br>- 🌐 Now, I specialize in Web Development, mainly using <strong>Laravel</strong> and <strong>WordPress</strong> on top of <strong>PHP</strong>.
 <br>- 📈 I also have a background in <strong>SEO</strong> through training and applying best practices in web development.
 <br>- 👀 I’m looking to collaborate on <strong>PHP</strong> projects, especially with <strong>Laravel</strong> and <strong>WordPress</strong>.
 <br>- 🛠️ I also work with <strong>Livewire</strong>, <strong>Volt</strong>, <strong>Tailwind CSS</strong>, and <strong>SASS</strong>, with a basic understanding of <strong>JavaScript</strong> and <strong>CSS</strong>.
 <br>- 📚 Continuously learning web technologies and grow in this area.
-<br>- 🚀 Always eager to collaborate on exciting projects and share knowledge.
+<br>- 🚀 Always eager to collaborate on exciting projects, maintaining programming principles like SOLID and DRY, and sharing knowledge.
 <br>- 📫 Reach me at <a href="https://www.facebook.com/aimperial.net">aimperial.net</a>.
 
-Current: 10 repositories with (4 actual projects)
+Current: 11 private repositories with (4 actual applied projects)
 
 <strong>VB.Net</strong>
 <br>CoopMS - Cooperative Management System
