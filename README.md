@@ -14,14 +14,14 @@
 Current: 5 private repositories (4 major projects)
 
 <strong>VB.Net</strong>
-<br><strong><em>CoopMS</em></strong> - Cooperative Management System
+<br>𝑪𝒐𝒐𝒑𝑴𝑺 - Cooperative Management System
 
 <strong>Laravel</strong>
-<br><strong><em>DCE Tabulator</em></strong> - Online Tabulation System for Different Contest (e.g. Pageant, Street Dancing, Singing Contest, etc.).
-<br><strong><em>CoopHub</em></strong> - Tabuk City Cooperatives Enterprise and Developement Office (CCEDO) Cooperative Profiling and Management System.
+<br>𝑫𝑪𝑬 𝑻𝒂𝒃𝒖𝒍𝒂𝒕𝒐𝒓 - Online Tabulation System for Different Contest (e.g. Pageant, Street Dancing, Singing Contest, etc.).
+<br>𝑪𝒐𝒐𝒑𝑯𝒖𝒃 - Tabuk City Cooperatives Enterprise and Developement Office (CCEDO) Cooperative Profiling and Management System.
 
 <strong>WordPress</strong>
-<br><strong><em>DCE Website</em></strong> - Personal and political website of the city mayor of Tabuk, Engr. Darwin C. Estrañero; with Social Network, Messaging and Forum.
+<br>𝑫𝑪𝑬 𝑾𝒆𝒃𝒔𝒊𝒕𝒆 - Personal and political website of the city mayor of Tabuk, Engr. Darwin C. Estrañero; with Social Network, Messaging and Forum.
 
 From 𝑽𝒊𝒔𝒖𝒂𝒍 𝑩𝒂𝒔𝒊𝒄 to mastering 𝑷𝑯𝑷 𝒂𝒏𝒅 𝑳𝒂𝒓𝒂𝒗𝒆𝒍, my journey as a 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 has been all about 𝒈𝒓𝒐𝒘𝒕𝒉, 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏, and building real 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔. Whether it’s developing management information system, standalone software, web application or dynamic websites, I’m always ready for new challenges.
 Always learning, always building. Let’s create something incredible!
