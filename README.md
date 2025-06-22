@@ -11,16 +11,16 @@
 <br>- 🚀 Always eager to collaborate on exciting projects and sharing knowledge.
 <br>- 📫 Reach me at <a href="https://www.facebook.com/aimperial.net">aimperial.net</a>.
 
-Current: 7 private repositories (6 major projects)
+Current: 6 major projects with 5 in production (private repositories)
 
 <strong>VB.Net</strong>
 <br>𝑪𝒐𝒐𝒑𝑴𝑺 - Cooperative Management System
 
 <strong>Laravel</strong>
 <br>𝑫𝑪𝑬 𝑻𝒂𝒃𝒖𝒍𝒂𝒕𝒐𝒓 - Online Tabulation System for Different Contest (e.g. Pageant, Street Dancing, Singing Contest, etc.).
-<br>𝑪𝒐𝒐𝒑𝑯𝒖𝒃 - Tabuk City Cooperatives Enterprise and Developement Office (CCEDO) Cooperative Profiling and Management System.
-<br>𝑪𝒂𝒎𝒑𝒖𝒔𝑸𝑹 - QR Code-Based Student Attendance Tracking System for monitoring entry logs and presence on the school campus.
-<br>𝑾𝒐𝒓𝒌𝒇𝒐𝒓𝒄𝒆 𝑸𝑹 - QR Code-Based Employee Attendance and Workforce Monitoring System for time-in/time-out and daily time tracking.
+<br>𝑪𝒐𝒐𝒑𝑯𝒖𝒃 - Tabuk City Cooperatives Enterprise and Developement Office (CCEDO) Cooperative Profiling and Management System (on-going).
+<br>𝑪𝒂𝒎𝒑𝒖𝒔𝑸𝑹 - QR Code-Based Student Attendance Tracking System for monitoring entry logs and presence on the school campus (not on production).
+<br>𝑾𝒐𝒓𝒌𝒇𝒐𝒓𝒄𝒆 𝑸𝑹 - QR Code-Based Employee Attendance and Workforce Monitoring System for time-in/time-out and daily time tracking (on-going).
 
 <strong>WordPress</strong>
 <br>𝑫𝑪𝑬 𝑾𝒆𝒃𝒔𝒊𝒕𝒆 - Personal and political website of the city mayor of Tabuk, Engr. Darwin C. Estrañero; with Social Network, Messaging and Forum.
