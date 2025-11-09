@@ -28,7 +28,7 @@ Current: 6 major projects with 5 in production (private repositories)
 
 <strong>WordPress</strong>
 <br>𝑫𝑪𝑬 𝑾𝒆𝒃𝒔𝒊𝒕𝒆 - Personal and political website of the city mayor of Tabuk, Engr. Darwin C. Estrañero; with Social Network, Messaging and Forum.
-<br>𝑹𝑷5 𝑾𝒆𝒃𝒔𝒊𝒕𝒆 – Corporate website for RP5 Cargo Limited; includes custom‑blocks for shipment tracking, WPTrack integration, client dashboard, and enterprise‑grade WordPress theme customisation.
+<br>𝑹𝑷5 𝑼𝑲 𝑾𝒆𝒃𝒔𝒊𝒕𝒆 – Corporate website for RP5 Cargo Limited; includes custom‑blocks for shipment tracking, WPTrack integration, client dashboard, and enterprise‑grade WordPress theme customisation.
 
 From 𝑽𝒊𝒔𝒖𝒂𝒍 𝑩𝒂𝒔𝒊𝒄 to mastering 𝑷𝑯𝑷 𝒂𝒏𝒅 𝑳𝒂𝒓𝒂𝒗𝒆𝒍, my journey as a 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 has been all about 𝒈𝒓𝒐𝒘𝒕𝒉, 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏, and building real 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔. Whether it’s developing management information system, standalone software, web application or dynamic websites, I’m always ready for new challenges.
 Always learning, always building. Let’s create something incredible!
