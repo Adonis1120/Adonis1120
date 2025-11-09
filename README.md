@@ -4,7 +4,7 @@
 <br>- 🌱 <strong>Visual Basic</strong> was my foundation in Computer Science, sparking my passion for Software Development.
 <br>- 🖥️ I continue building Windows applications with <strong>VB.NET</strong>, having completed a few projects in this area.
 <br>- 🌐 Now, I specialize in Web Development, mainly using <strong>Laravel</strong> and <strong>WordPress</strong> on top of <strong>PHP</strong>. 
-🏗️ Experienced in both <strong>LAMP stack and TALL stack development</strong>, applying principles like <strong>KISS, DRY, SOLID, SOAP and YAGNI</strong> for clean and maintainable code. 
+<br>- 🏗️ Experienced in both <strong>LAMP stack and TALL stack development</strong>, applying principles like <strong>KISS, DRY, SOLID, SOAP and YAGNI</strong> for clean and maintainable code. 
 <br>- 📈 I also have a background in <strong>SEO</strong> incorporating to programming principles for web development.
 <br>- 🔍 Also familiar with MySQL, SCSS, SMACSS, BEM and version control (Git/GitHub/GitLab).
 <br>- ☁️ Comfortable with server management, Hostinger, cron jobs, email systems, and domain/hosting configuration.
