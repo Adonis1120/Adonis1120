@@ -3,14 +3,14 @@
 <br>💞️ I’m interested in Web Development<br>
 <br>- 🌱 <strong>Visual Basic</strong> was my foundation in Computer Science, sparking my passion for Software Development.
 <br>- 🖥️ I continue building Windows applications with <strong>VB.NET</strong>, having completed a few projects in this area.
-<br>- 🌐 Now, I specialize in Web Development, mainly using <strong>Laravel</strong> and <strong>WordPress</strong> on top of <strong>PHP</strong>. 
+<br>- 🌐 Now, I specialize in Web Development, mainly using <strong>Laravel</strong> and <strong>WordPress Core</strong> on top of <strong>PHP</strong>. 
 <br>- 🏗️ Experienced in both <strong>LAMP</strong> stack and <strong>TALL</strong> stack development, applying principles like <strong>KISS, DRY, SOLID, SOAP</strong> and <strong>YAGNI</strong> for clean and maintainable code. 
 <br>- 📈 I also have a background in <strong>SEO</strong> incorporating to programming principles for web development.
 <br>- 🔍 Also familiar with <strong>MySQL, SCSS, SMACSS, BEM</strong> and version control (Git/<strong>GitHub</strong>/<strong>GitLab</strong>).
 <br>- ☁️ Comfortable with <strong>server management</strong>, Hostinger, cron jobs, email systems, and domain/hosting configuration.
 <br>- 🔐 Knowledgeable in <strong>web security</strong> like SQL injections, CSRF, rate limiting, input validation, XSS, DDoS and SPF/DKIM/DMARC setups.
 <br>- 👀 I’m looking to collaborate on <strong>PHP</strong> projects, especially with <strong>Laravel</strong> and <strong>WordPress</strong>.
-<br>- 🛠️ I also work with <strong>Livewire</strong>, <strong>Volt</strong>, <strong>Tailwind CSS</strong> and <strong>Flux UI</strong> with a basic understanding of <strong>JavaScript</strong> and <strong>CSS</strong>. 
+<br>- 🛠️ I also work with <strong>Livewire</strong>, <strong>Volt</strong>, <strong>Tailwind CSS</strong>, <strong>Bootstrap</strong> and <strong>Flux UI</strong> with a basic understanding of <strong>JavaScript</strong> and <strong>CSS</strong>. 
 <br>- 📚 Continuously learning web technologies and grow in this area.
 <br>- 🚀 Always eager to collaborate on exciting projects and sharing knowledge.
 <br>- 📫 Reach me at <a href="https://www.facebook.com/aimperial.net">aimperial.net</a>.
