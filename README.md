@@ -15,7 +15,7 @@
 <br>- 🚀 Always eager to collaborate on exciting projects and sharing knowledge.
 <br>- 📫 Reach me at <a href="https://www.facebook.com/aimperial.net">aimperial.net</a>.
 
-Current: 6 major projects with 5 in production (private repositories)
+Private Repo: 6 major projects with 5 in production
 
 <strong>VB.Net</strong>
 <br>𝑪𝒐𝒐𝒑𝑴𝑺 - Cooperative Management System
