@@ -1,6 +1,6 @@
 <div align="center">
   <!-- BANNER -->
-  <img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/Adonis1120/Adonis1120/main/assets/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/banner.png" width="100%" />
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
