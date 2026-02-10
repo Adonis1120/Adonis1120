@@ -49,65 +49,73 @@
 <!-- PROJECTS -->
 <h2 align="center">Projects</h2>
 
-<!-- PROJECTS -->
-<h2 align="center">Projects</h2>
-
 <div align="center">
-  <table>
-    <tr>
-      <!-- iCoopHub 360 -->
-      <td width="50%">
-        <h3 align="center">iCoopHub 360</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-icoophub.jpg" width="100%" />
-          </a>
-          <br><br>
+<table>
+<tr>
+<td width="50%">
 
-          <p>
-            <a href="https://icoophub.com" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://icoophub.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-            </a>
-          </p>
+<h3 align="center">iCoopHub 360</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-icoophub.jpg" width="100%" />
+</a>
 
-          <!-- Tech badges -->
-          <p>
-            <img src="https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-            <img src="https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
-            <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-            <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-          </p>
+<br><br>
 
-          <h4>Web-based Cooperative Profiling & Monitoring System</h4>
-          <p>
-            Web-based cooperative profiling and monitoring system used for compliance tracking,
-            financial categorization, and government reporting.
-          </p>
-        </div>
-      </td>
+<p>
+<a href="https://icoophub.com" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://icoophub.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+</a>
+</p>
 
-      <!-- Cooperative Analytics Engine -->
-      <td width="50%">
-        <h3 align="center">Cooperative Analytics Engine</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-analytics.jpg" width="100%" />
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/System-Internal-lightgrey?style=for-the-badge"/>
-          </p>
-          <p><strong>Laravel • SQL Optimization • Caching</strong></p>
-          <p>
-            Automated ranking, audit-safe activity tracking, and performance-optimized reporting engine.
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
+![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<h4>Web-based Cooperative Profiling & Monitoring System</h4>
+
+<p>
+Web-based cooperative profiling and monitoring system used for compliance tracking,
+financial categorization, and government reporting.
+</p>
+</div>
+
+<ul>
+<li>Centralized cooperative databank</li>
+<li>Financial category & compliance assessment</li>  
+<li>Ranking, analytics, and reporting engine</li>
+<li>Built with Laravel 12, Livewire 3, Tailwind</li>
+</ul> 
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Cooperative Analytics Engine</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-analytics.jpg" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<img src="https://img.shields.io/badge/System-Internal-lightgrey?style=for-the-badge"/>
+</p>
+
+<p><strong>Laravel • SQL Optimization • Caching</strong></p>
+<p>
+Automated ranking, audit-safe activity tracking, and performance-optimized reporting engine.
+</p>
+</div>
+
+</td>
+</tr>
+</table>
 </div>
 
 <br>
