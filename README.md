@@ -3,6 +3,8 @@
   <img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/banner.jpg" width="100%" />
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 <h1 align="center">Hi 👋, I’m Adonis Imperial</h1>
 <h3 align="center">Full-Stack Web Developer • Systems Architect</h3>
 
@@ -14,8 +16,7 @@ I am a Software Engineer who has now specialized in web development. I started w
 
 <div align="center">
 
-## 🧠 Tech Stack
-
+<h2>🧠 Tech Stack</h2>
 <img src="https://skillicons.dev/icons?i=laravel,php,livewire,tailwind,alpine,mysql,redis,linux&theme=light" />
 
 </div>
@@ -26,22 +27,22 @@ I am a Software Engineer who has now specialized in web development. I started w
 <h2 align="center">Skills</h2>
 
 <div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="75" height="75"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="75" height="75"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="75" height="75"/>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="75" height="75"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="75" height="75"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="75" height="75"/>
 </div>
 
 <br>
@@ -64,27 +65,33 @@ I am a Software Engineer who has now specialized in web development. I started w
 <br><br>
 
 <p>
-<img src="https://img.shields.io/badge/System-Private-lightgrey?style=for-the-badge"/>
+<a href="https://icoophub.com" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://icoophub.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+</a>
 </p>
 
-<p>
-  ![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-</p>
+![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<h4>Web-based Cooperative Profiling & Monitoring System</h4>
+
 <p>
 Web-based cooperative profiling and monitoring system used for compliance tracking,
 financial categorization, and government reporting.
 </p>
 </div>
 
-**Web-based Cooperative Profiling & Monitoring System**
-
-- Centralized cooperative databank  
-- Financial category & compliance assessment  
-- Ranking, analytics, and reporting engine  
-- Built with Laravel 12, Livewire 3, Tailwind
+<ul>
+<li>Centralized cooperative databank</li>
+<li>Financial category & compliance assessment</li>  
+<li>Ranking, analytics, and reporting engine</li>
+<li>Built with Laravel 12, Livewire 3, Tailwind</li>
+</ul> 
 
 </td>
 
@@ -243,11 +250,6 @@ I bridge traditional desktop application principles with modern web technologies
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adonisimperial&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adonisimperial&layout=compact)
-
 
 
 
@@ -288,8 +290,6 @@ Private Repo: 6 major projects with 5 in production
 
 From 𝑽𝒊𝒔𝒖𝒂𝒍 𝑩𝒂𝒔𝒊𝒄 to mastering 𝑷𝑯𝑷 𝒂𝒏𝒅 𝑳𝒂𝒓𝒂𝒗𝒆𝒍, my journey as a 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 has been all about 𝒈𝒓𝒐𝒘𝒕𝒉, 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏, and building real 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔. Whether it’s developing a management information system, standalone software, a web application or a dynamic website, I’m always ready for new challenges.
 Always learning, always building. Let’s create something incredible!
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 <!---
 Adonis1120/Adonis1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
