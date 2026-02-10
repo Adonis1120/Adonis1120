@@ -258,7 +258,9 @@ Includes shipment tracking, client dashboard, and enterprise-grade theme customi
 </ul> 
 
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 
 <h3 align="center">Various US Clients</h3>
@@ -290,6 +292,37 @@ Developed corporate and client-specific websites while at Catch Creative Labs.
 </ul> 
 
 </td>
+
+<td width="50%">
+
+<h3 align="center">CoopMS</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/coopms.png" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+</p>
+
+![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+<h4>Cooperative Management System</h4>
+
+<p>
+Desktop-based system for managing cooperatives including membership, transactions, and reporting.
+</p>
+</div>
+
+<ul>
+<li>Member management & transaction tracking</li>
+<li>Reporting engine for cooperative operations</li>
+<li>Built with VB.NET and SQL Server</li>
+</ul> 
 
 </tr>
 </table>
