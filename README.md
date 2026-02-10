@@ -212,7 +212,7 @@ Monitors employee time-in/time-out and daily tracking (ongoing project).
 <h3 align="center">DCE Website</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/dce_website.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/dcewebsite.png" width="100%" />
 </a>
 
 <br><br>
@@ -244,7 +244,7 @@ Includes social networking, chat messaging, and forum functionalities.
 <h3 align="center">RP5 Cargo Limited (UK)</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/rp5_cargo.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/rp5cargolimited.png" width="100%" />
 </a>
 
 <br><br>
@@ -278,7 +278,7 @@ Includes shipment tracking, client dashboard, and enterprise-grade theme customi
 <h3 align="center">Various US Clients</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/us_clients.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/usclients.png" width="100%" />
 </a>
 
 <br><br>
