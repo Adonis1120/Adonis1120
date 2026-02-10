@@ -1,3 +1,377 @@
+<div align="center">
+  <!-- BANNER -->
+  <img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/banner.jpg" width="100%" />
+</div>
+
+<h1 align="center">Hi 👋, I’m Adonis Imperial</h1>
+<h3 align="center">Full-Stack Web Developer • Systems Architect</h3>
+
+<h4 align="center">
+I am a Software Engineer who has now specialized in web development. I started web development 8 years ago in 2018. I have successfully designed, built, and maintained secure, high-performance web systems for cooperatives, MSMEs and public sector institutions. My work focuses on data accuracy, scalability, compliance, and long-term sustainability. I seek to apply my expertise at a higher level by contributing to impactful, production-grade systems, and being hired as a developer would be an honor.
+</h4>
+
+<hr>
+
+<div align="center">
+
+## 🧠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=laravel,php,livewire,tailwind,alpine,mysql,redis,linux&theme=light" />
+
+</div>
+
+<hr>
+
+<!-- SKILLS -->
+<h2 align="center">Skills</h2>
+
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="75" height="75"/>
+</div>
+
+<br>
+<hr>
+
+<!-- PROJECTS -->
+<h2 align="center">Projects</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">iCoopHub 360</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-icoophub.jpg" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<img src="https://img.shields.io/badge/System-Private-lightgrey?style=for-the-badge"/>
+</p>
+
+<p><strong>Laravel 12 • Livewire 3 • Tailwind • MySQL</strong></p>
+<p>
+Web-based cooperative profiling and monitoring system used for compliance tracking,
+financial categorization, and government reporting.
+</p>
+</div>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Cooperative Analytics Engine</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-analytics.jpg" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<img src="https://img.shields.io/badge/System-Internal-lightgrey?style=for-the-badge"/>
+</p>
+
+<p><strong>Laravel • SQL Optimization • Caching</strong></p>
+<p>
+Automated ranking, audit-safe activity tracking, and performance-optimized reporting engine.
+</p>
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+<hr>
+
+<!-- CONTACT -->
+<h2 align="center">Contact</h2>
+
+<p align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+</a>
+</p>
+
+<hr>
+
+<!-- STATS -->
+<div align="center">
+<h2>Stats</h2>
+<h6>Public repositories only</h6>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adonisimperial&layout=compact"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=adonisimperial&show_icons=true"/>
+</div>
+
+
+
+
+
+
+<div align="center">
+
+# Hi 👋, I’m Adonis Imperial
+
+### Full-Stack Developer • Systems Architect • Government IT Consultant
+
+I build **secure, scalable, and performance-focused web systems**  
+for cooperatives, MSMEs, and public sector institutions.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=laravel,php,livewire,tailwind,alpine,mysql,redis,linux&theme=light" />
+
+</div>
+
+---
+
+## 🏛️ What I Do
+
+- 🧩 Architect and develop **enterprise-grade web systems**
+- 🚀 Optimize **Laravel 12 + Livewire 3** applications
+- 🔐 Implement **security, auditing, and compliance-ready logic**
+- 📊 Build data-driven dashboards for decision-makers
+
+---
+
+## 🗂️ Featured Work
+
+### iCoopHub 360  
+**Web-based Cooperative Profiling & Monitoring System**
+
+- Centralized cooperative databank  
+- Financial category & compliance assessment  
+- Ranking, analytics, and reporting engine  
+- Built with Laravel 12, Livewire 3, Tailwind
+
+> Private government system
+
+---
+
+### Cooperative Ranking Engine
+- Audit-safe activity tracking
+- Optimized queries & caching
+- Performance-first architecture
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=adonisimperial&show_icons=true&hide_title=true" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonisimperial&layout=compact" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Connect With Me
+
+<a href="https://github.com/adonisimperial">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+
+# Hi, I'm [Your Name] 👋
+
+[Brief personal tagline, e.g., "Full Stack Developer | Open Source Enthusiast"]
+
+## 🚀 About Me
+
+I'm a [your profession] based in [Your Location]. With over [X] years of experience in [your field], I specialize in [your specialties]. I'm passionate about [what motivates you] and currently focused on [current projects/goals].
+
+[Optional: Add metrics like "I've helped over X students" or "My tutorials have X views"]
+
+## 💻 Tech Stack
+
+**Frontend:**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+
+**Tools & Others:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📂 Featured Projects
+
+### [Project 1 Name](link-to-repository)
+![Tech Badges](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech Badges](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+Brief description of what this project does, what problem it solves, and key features.
+
+### [Project 2 Name](link-to-repository)
+![Tech Badges](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Tech Badges](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
+Project description highlighting your technical implementation and results.
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+*Note: These stats only show public repositories and don't include private client work.*
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+# 💻 Software Engineer
+### Desktop Application Developer turned Web Developer
+
+👋 Hi, I'm **Adonis Bilagot Imperial**  
+💞️ Passionate about building clean, efficient, and scalable web solutions
+
+---
+
+## 🚀 About My Journey
+
+My programming journey began with **Visual Basic**, which sparked my passion for software development. From building Windows applications with **VB.NET**, I transitioned to web development, where I now specialize in creating robust solutions with **Laravel** and **WordPress Core**.
+
+I bridge traditional desktop application principles with modern web technologies, applying **KISS, DRY, SOLID, SOAP, and YAGNI** principles to deliver maintainable, high-quality code.
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### **Core Competencies**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### **Frontend & Styling**
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Backend & Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TALL Stack](https://img.shields.io/badge/TALL_Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-007396?style=for-the-badge&logo=linux&logoColor=white)
+
+### **Tools & Operations**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Server Management](https://img.shields.io/badge/Server_Management-009639?style=for-the-badge&logo=serverless&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-0CAA41?style=for-the-badge&logo=seo&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### **VB.NET Applications**
+| Project | Description | Status |
+|---------|-------------|---------|
+| **CoopMS** | Cooperative Management System | Production |
+
+### **Laravel Projects** (6 major projects, 5 in production)
+| Project | Description | Stack | Status |
+|---------|-------------|-------|---------|
+| **DCE Tabulator** | Customized online tabulation system for contests (pageants, competitions) with live real-time scoring | Laravel, Livewire | Production |
+| **iCoopHub 360** | Tabuk City Cooperatives Enterprise and Development Office (CCEDO) Cooperative Profiling System | Laravel, MySQL | Production |
+| **CampusQR** | QR Code-Based Student Attendance Tracking System for campus monitoring | Laravel, QR Code | Development |
+| **Workforce QR** | QR Code-Based Employee Attendance and Workforce Monitoring System | Laravel, Livewire | Ongoing |
+
+### **WordPress Projects**
+| Project | Description | Features |
+|---------|-------------|----------|
+| **DCE Website** | Personal/political website for Mayor Darwin C. Estrañero | Social Network, Chat, Forum |
+| **RP5 Cargo Limited** | Corporate website with custom shipment tracking | WPTrack, Client Dashboard |
+| **Various US Clients** | Corporate & business websites at Catch Creative Labs | Custom Themes/Plugins, Team Collaboration |
+
+---
+
+## 🔐 Specialized Skills
+
+- **Code/Query Optimization** & **Web Performance** tuning
+- **Web Security**: SQL injection prevention, CSRF protection, rate limiting, XSS mitigation, DDoS protection
+- **Email Security**: SPF/DKIM/DMARC configuration
+- **Server Management**: Hostinger, cron jobs, email systems, domain/hosting setup
+- **Methodologies**: SCSS, SMACSS, BEM architecture
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6)
+
+*Private repositories include 6 major projects with 5 currently in production.*
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+👀 **Looking to collaborate on:** PHP projects, especially Laravel and WordPress development
+
+🚀 **Always eager to:** Work on exciting projects, share knowledge, and tackle new challenges
+
+📚 **Continuously learning:** Web technologies and growing as a developer
+
+[![Facebook](https://img.shields.io/badge/Facebook-aimperial.net-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aimperial.net)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.facebook.com/aimperial.net)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
+
+## 🌟 My Development Philosophy
+
+> *"From **Visual Basic** to mastering **PHP & Laravel**, my journey as a **software developer** has been all about **growth, innovation, and building real solutions**. Whether it's developing a management information system, standalone software, a web application or a dynamic website, I'm always ready for new challenges."*
+
+**Always learning, always building. Let's create something incredible!**
+
+
+
+
 # 👋 Hi, I’m Adonis Imperial
 
 ### Full-Stack Web Developer | Systems Architect | Government IT Consultant
@@ -110,6 +484,8 @@ Private Repo: 6 major projects with 5 in production
 
 From 𝑽𝒊𝒔𝒖𝒂𝒍 𝑩𝒂𝒔𝒊𝒄 to mastering 𝑷𝑯𝑷 𝒂𝒏𝒅 𝑳𝒂𝒓𝒂𝒗𝒆𝒍, my journey as a 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 has been all about 𝒈𝒓𝒐𝒘𝒕𝒉, 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏, and building real 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔. Whether it’s developing a management information system, standalone software, a web application or a dynamic website, I’m always ready for new challenges.
 Always learning, always building. Let’s create something incredible!
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 <!---
 Adonis1120/Adonis1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
