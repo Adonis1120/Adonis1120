@@ -15,7 +15,7 @@
 <hr>
 
 <div align="center">
-  <h2>🧠 Tech Stack</h2>
+  <h2>Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=laravel,php,livewire,tailwind,alpine,mysql,redis,linux&theme=light" />
 </div>
 
@@ -74,6 +74,7 @@
 ![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h4>Web-based Cooperative Profiling & Monitoring System</h4>
@@ -98,18 +99,23 @@ financial categorization, and government reporting.
 <h3 align="center">DCE Tabulator</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/dce_tabulator.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/icoophub360.png" width="100%" />
 </a>
 
 <br><br>
 
 <p>
-<a href="#" target="_blank">
+<a href="https://dcetabulator.com" target="_blank">
 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
+<a href="https://dcetabulator.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+</a> 
 </p>
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h4>Customized Online Tabulation System</h4>
 
@@ -145,7 +151,10 @@ Live and real-time scoring for contests (pageants, street dancing, singing compe
 </a>  
 </p>
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h4>QR Code-Based Student Attendance</h4>
 
@@ -177,7 +186,10 @@ Tracks student entry logs and presence on campus (not yet in production).
 </a>  
 </p>
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h4>QR Code-Based Employee Attendance</h4>
 
@@ -238,7 +250,7 @@ Includes social networking, chat messaging, and forum functionalities.
 <br><br>
 
 <p>
-<a href="#" target="_blank">
+<a href="rp5cargolimited.com" target="_blank">
 <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 </a>  
 </p>
