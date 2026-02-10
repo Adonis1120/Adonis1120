@@ -95,23 +95,33 @@ financial categorization, and government reporting.
 
 <td width="50%">
 
-<h3 align="center">Cooperative Analytics Engine</h3>
+<h3 align="center">DCE Tabulator</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-analytics.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/dce_tabulator.png" width="100%" />
 </a>
 
 <br><br>
 
 <p>
-<img src="https://img.shields.io/badge/System-Internal-lightgrey?style=for-the-badge"/>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
 </p>
 
-<p><strong>Laravel • SQL Optimization • Caching</strong></p>
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+<h4>Customized Online Tabulation System</h4>
+
 <p>
-Automated ranking, audit-safe activity tracking, and performance-optimized reporting engine.
+Live and real-time scoring for contests (pageants, street dancing, singing competitions, etc.).
 </p>
 </div>
+
+<ul>
+<li>Real-time contest scoring</li>
+<li>Built with Laravel, Livewire, MySQL</li>
+</ul> 
 
 </td>
 </tr>
@@ -133,11 +143,11 @@ Automated ranking, audit-safe activity tracking, and performance-optimized repor
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:adonisimperial@example.com" target="_blank">
+  <a href="mailto:adonisimperial@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://adonisimperial.com" target="_blank">
+  <a href="https://aimperial.net" target="_blank">
     <img src="https://img.shields.io/badge/-Website-4B9CE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
