@@ -16,9 +16,9 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=laravel,php,livewire,tailwind,alpine,mysql,redis,linux&theme=light" />
+  <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="48" height="48" alt="Livewire"/>
+  <img src="https://skillicons.dev/icons?i=laravel,php,tailwind,alpinejs,mysql,redis,linux&theme=light" />
 
-  ##
 ![TALL Stack](https://img.shields.io/badge/TALL_Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-007396?style=for-the-badge&logo=linux&logoColor=white)
 </div>
