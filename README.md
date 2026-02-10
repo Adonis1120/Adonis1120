@@ -58,7 +58,9 @@
           <a href="#" target="_blank">
             <img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-icoophub.jpg" width="100%" />
           </a>
+      
           <br><br>
+      
           <p>
             <a href="https://icoophub.com" target="_blank">
               <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
@@ -67,22 +69,21 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
             </a>
           </p>
-          ![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-          ![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-          ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-          ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+      
+          <!-- ALL BADGES INSIDE THE TD -->
+          <p>
+            ![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+            ![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+            ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+            ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+          </p>
+      
           <h4>Web-based Cooperative Profiling & Monitoring System</h4>
           <p>
             Web-based cooperative profiling and monitoring system used for compliance tracking,
             financial categorization, and government reporting.
           </p>
         </div>
-        <ul>
-          <li>Centralized cooperative databank</li>
-          <li>Financial category & compliance assessment</li>  
-          <li>Ranking, analytics, and reporting engine</li>
-          <li>Built with Laravel 12, Livewire 3, Tailwind</li>
-        </ul> 
       </td>
 
       <td width="50%">
