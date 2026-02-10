@@ -154,12 +154,12 @@ Automated ranking, audit-safe activity tracking, and performance-optimized repor
 
   <!-- Top Languages -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adonisimperial&layout=compact&hide=html,css,scss&langs_count=8&theme=default" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis1120&layout=compact&theme=default" alt="Top Languages"/>
   </p>
 
   <!-- Overall GitHub Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=adonisimperial&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Adonis1120&show_icons=true&theme=default" alt="GitHub Stats"/>
   </p>
 
 </div>
