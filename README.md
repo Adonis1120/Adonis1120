@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 <h1 align="center">Hi 👋, I’m Adonis Imperial</h1>
-<h3 align="center">Full-Stack Web Developer • Systems Architect</h3>
+<h3 align="center">Full-Stack Web Developer • Systems Architect • Software Engineer</h3>
 
 <h4 align="center">
   I am a Software Engineer who has now specialized in web development. I started web development in 2018, 8 years ago. I have successfully designed, built and maintained secure, high-performance web systems for cooperatives and community events. I seek to apply my expertise at a higher level by contributing to impactful, production-grade systems, and being hired as a developer would be an honor.
@@ -17,6 +17,10 @@
 <div align="center">
   <h2>Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=laravel,php,livewire,tailwind,alpine,mysql,redis,linux&theme=light" />
+
+  ##
+![TALL Stack](https://img.shields.io/badge/TALL_Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-007396?style=for-the-badge&logo=linux&logoColor=white)
 </div>
 
 <hr>
@@ -31,6 +35,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="75" height="75"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="75" height="75"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="75" height="75"/>
@@ -222,7 +228,7 @@ Monitors employee time-in/time-out and daily tracking (ongoing project).
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+<img src="https://img.shields.io/badge/Live (Ended)-lightgrey?style=for-the-badge&color=0892d0"/>
 </a>  
 </p>
 
@@ -260,7 +266,7 @@ Includes social networking, chat messaging, and forum functionalities.
 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<h4>Corporate Website</h4>
+<h4>Corporate Website with Cargo Tracking</h4>
 
 <p>
 Includes shipment tracking, client dashboard, and enterprise-grade theme customization.
@@ -288,7 +294,10 @@ Includes shipment tracking, client dashboard, and enterprise-grade theme customi
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+<img src="https://img.shields.io/badge/GitLab-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live (various)-lightgrey?style=for-the-badge&color=0892d0"/>
 </a>  
 </p>
 
@@ -325,6 +334,9 @@ Developed corporate and client-specific websites while at Catch Creative Labs.
 </p>
 
 ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![DotNetBar](https://img.shields.io/badge/-DotNetBar-0078D7?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-000000?style=for-the-badge&logo=business-intelligence&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <h4>Cooperative Management System</h4>
 
@@ -379,6 +391,8 @@ Desktop-based system for managing cooperatives including membership, transaction
 </p>
 -->
 
+<br><br>
+
 <h1 align="center">💻 More About Me</h1>
 <h3 align="center">🚀 My Journey (Desktop Application Developer turned Web Developer)</h3>
 
@@ -402,7 +416,7 @@ Desktop-based system for managing cooperatives including membership, transaction
 > “Build systems that outlast trends, not just ship features.”
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Technology Expertise Summarized by Areas
 
 ### **Core Competencies**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
