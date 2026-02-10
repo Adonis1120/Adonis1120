@@ -9,7 +9,7 @@
 <h3 align="center">Full-Stack Web Developer • Systems Architect</h3>
 
 <h4 align="center">
-  I am a Software Engineer who has now specialized in web development. I started web development 8 years ago in 2018. I have successfully designed, built, and maintained secure, high-performance web systems for cooperatives, MSMEs and public sector institutions. My work focuses on data accuracy, scalability, compliance, and long-term sustainability. I seek to apply my expertise at a higher level by contributing to impactful, production-grade systems, and being hired as a developer would be an honor.
+  I am a Software Engineer who has now specialized in web development. I started web development in 2018, 8 years ago. I have successfully designed, built and maintained secure, high-performance web systems for cooperatives and community events. I seek to apply my expertise at a higher level by contributing to impactful, production-grade systems, and being hired as a developer would be an honor.
 </h4>
 
 <hr>
