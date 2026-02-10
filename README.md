@@ -1,6 +1,6 @@
 <div align="center">
   <!-- BANNER -->
-  <img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/banner.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/Adonis1120/Adonis1120/main/assets/banner.jpg" width="100%" />
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
@@ -57,7 +57,7 @@
 <h3 align="center">iCoopHub 360</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/icoophub.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/icoophub.png" width="100%" />
 </a>
 
 <br><br>
