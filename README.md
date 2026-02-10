@@ -127,25 +127,41 @@ Automated ranking, audit-safe activity tracking, and performance-optimized repor
 <h2 align="center">Contact</h2>
 
 <p align="center">
-<a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-</a>
+  <a href="https://www.linkedin.com/in/adonisimperial" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/adonisimperial" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:adonisimperial@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://adonisimperial.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-4B9CE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
 </p>
 
 <hr>
 
 <!-- STATS -->
 <div align="center">
-<h2>Stats</h2>
-<h6>Public repositories only</h6>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adonisimperial&layout=compact"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=adonisimperial&show_icons=true"/>
+  <h2>Stats</h2>
+  <h6>Public repositories only</h6>
+
+  <!-- Top Languages -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adonisimperial&layout=compact&hide=html,css,scss&langs_count=8&theme=default" alt="Top Languages" />
+  </p>
+
+  <!-- Overall GitHub Stats -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=adonisimperial&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
+  </p>
+
 </div>
 
 <h1 align="center">💻 More About Me</h1>
@@ -248,10 +264,10 @@ Private Repo: 6 major projects with 5 in production
 <br>𝑫𝑪𝑬 𝑾𝒆𝒃𝒔𝒊𝒕𝒆 - Personal and political website of the city mayor of Tabuk, Engr. Darwin C. Estrañero with Social Network, Chat Messaging and Forum.
 <br>𝑹𝑷5 𝑪𝒂𝒓𝒈𝒐 𝑳𝒊𝒎𝒊𝒕𝒆𝒅 (𝑼𝑲) – Corporate website for RP5 Cargo Limited; includes custom‑blocks for shipment tracking, WPTrack integration, client dashboard, and enterprise‑grade WordPress theme customisation.
 <br>𝑽𝑨𝑹𝑰𝑶𝑼𝑺 𝑼𝑺 𝑪𝑳𝑰𝑬𝑵𝑻𝑺 – Developed corporate and small business websites, custom WordPress solutions, and client-specific plugin/theme customizations while at <strong>Catch Creative Labs</strong>. Collaborated in multi-disciplinary teams across different time zones for smooth project delivery
--->
 
 From 𝑽𝒊𝒔𝒖𝒂𝒍 𝑩𝒂𝒔𝒊𝒄 to mastering 𝑷𝑯𝑷 𝒂𝒏𝒅 𝑳𝒂𝒓𝒂𝒗𝒆𝒍, my journey as a 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 has been all about 𝒈𝒓𝒐𝒘𝒕𝒉, 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏, and building real 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔. Whether it’s developing a management information system, standalone software, a web application or a dynamic website, I’m always ready for new challenges.
 Always learning, always building. Let’s create something incredible!
+-->
 
 <!---
 Adonis1120/Adonis1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
