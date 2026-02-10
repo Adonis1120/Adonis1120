@@ -146,23 +146,16 @@ Automated ranking, audit-safe activity tracking, and performance-optimized repor
 
 <hr>
 
-<!-- STATS -->
-<div align="center">
+<!-- Static GitHub Stats -->
+<!--
+<h2 align="center">Stats</h2>
 
-  <h2>Stats</h2>
-  <h6>Public repositories only</h6>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adonis1120&show_icons=true&theme=default&count_private=true&token=YOUR_TOKEN_HERE" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis1120&layout=compact&theme=default&count_private=true&token=YOUR_TOKEN_HERE" alt="Top Languages"/>
+</p>
+-->
 
-  <!-- Top Languages -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis1120&layout=compact&theme=default" alt="Top Languages"/>
-  </p>
-
-  <!-- Overall GitHub Stats -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Adonis1120&show_icons=true&theme=default" alt="GitHub Stats"/>
-  </p>
-
-</div>
 
 <h1 align="center">💻 More About Me</h1>
 <h3 align="center">🚀 My Journey (Desktop Application Developer turned Web Developer)</h3>
