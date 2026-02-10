@@ -9,16 +9,14 @@
 <h3 align="center">Full-Stack Web Developer • Systems Architect</h3>
 
 <h4 align="center">
-I am a Software Engineer who has now specialized in web development. I started web development 8 years ago in 2018. I have successfully designed, built, and maintained secure, high-performance web systems for cooperatives, MSMEs and public sector institutions. My work focuses on data accuracy, scalability, compliance, and long-term sustainability. I seek to apply my expertise at a higher level by contributing to impactful, production-grade systems, and being hired as a developer would be an honor.
+  I am a Software Engineer who has now specialized in web development. I started web development 8 years ago in 2018. I have successfully designed, built, and maintained secure, high-performance web systems for cooperatives, MSMEs and public sector institutions. My work focuses on data accuracy, scalability, compliance, and long-term sustainability. I seek to apply my expertise at a higher level by contributing to impactful, production-grade systems, and being hired as a developer would be an honor.
 </h4>
 
 <hr>
 
 <div align="center">
-
-<h2>🧠 Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=laravel,php,livewire,tailwind,alpine,mysql,redis,linux&theme=light" />
-
+  <h2>🧠 Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=laravel,php,livewire,tailwind,alpine,mysql,redis,linux&theme=light" />
 </div>
 
 <hr>
@@ -27,22 +25,22 @@ I am a Software Engineer who has now specialized in web development. I started w
 <h2 align="center">Skills</h2>
 
 <div align="center">
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="75" height="75"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="75" height="75"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="75" height="75"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="75" height="75"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="75" height="75"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="75" height="75"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="75" height="75"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="75" height="75"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="75" height="75"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="75" height="75"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="75" height="75"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="75" height="75"/>
 </div>
 
 <br>
@@ -52,72 +50,59 @@ I am a Software Engineer who has now specialized in web development. I started w
 <h2 align="center">Projects</h2>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">iCoopHub 360</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-icoophub.jpg" width="100%" />
+          </a>
+          <br><br>
+          <p>
+            <a href="https://icoophub.com" target="_blank">
+              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://icoophub.com" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+            </a>
+          </p>
+          ![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+          ![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+          ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+          ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+          <h4>Web-based Cooperative Profiling & Monitoring System</h4>
+          <p>
+            Web-based cooperative profiling and monitoring system used for compliance tracking,
+            financial categorization, and government reporting.
+          </p>
+        </div>
+        <ul>
+          <li>Centralized cooperative databank</li>
+          <li>Financial category & compliance assessment</li>  
+          <li>Ranking, analytics, and reporting engine</li>
+          <li>Built with Laravel 12, Livewire 3, Tailwind</li>
+        </ul> 
+      </td>
 
-<h3 align="center">iCoopHub 360</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-icoophub.jpg" width="100%" />
-</a>
-
-<br><br>
-
-<p>
-<a href="https://icoophub.com" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://icoophub.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-</a>
-</p>
-
-![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<h4>Web-based Cooperative Profiling & Monitoring System</h4>
-
-<p>
-Web-based cooperative profiling and monitoring system used for compliance tracking,
-financial categorization, and government reporting.
-</p>
-</div>
-
-<ul>
-<li>Centralized cooperative databank</li>
-<li>Financial category & compliance assessment</li>  
-<li>Ranking, analytics, and reporting engine</li>
-<li>Built with Laravel 12, Livewire 3, Tailwind</li>
-</ul> 
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">Cooperative Analytics Engine</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-analytics.jpg" width="100%" />
-</a>
-
-<br><br>
-
-<p>
-<img src="https://img.shields.io/badge/System-Internal-lightgrey?style=for-the-badge"/>
-</p>
-
-<p><strong>Laravel • SQL Optimization • Caching</strong></p>
-<p>
-Automated ranking, audit-safe activity tracking, and performance-optimized reporting engine.
-</p>
-</div>
-
-</td>
-</tr>
-</table>
+      <td width="50%">
+        <h3 align="center">Cooperative Analytics Engine</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://raw.githubusercontent.com/adonisimperial/adonisimperial/main/assets/project-analytics.jpg" width="100%" />
+          </a>
+          <br><br>
+          <p>
+            <img src="https://img.shields.io/badge/System-Internal-lightgrey?style=for-the-badge"/>
+          </p>
+          <p><strong>Laravel • SQL Optimization • Caching</strong></p>
+          <p>
+            Automated ranking, audit-safe activity tracking, and performance-optimized reporting engine.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -156,13 +141,16 @@ Automated ranking, audit-safe activity tracking, and performance-optimized repor
 </p>
 -->
 
-
 <h1 align="center">💻 More About Me</h1>
 <h3 align="center">🚀 My Journey (Desktop Application Developer turned Web Developer)</h3>
 
-My programming journey began with **Visual Basic**, which sparked my passion for software development. From building Windows applications with **VB.NET**, I transitioned to web development, where I now specialize in creating robust solutions with **Laravel** and **WordPress Core**.
+<p>
+  My programming journey began with <strong>Visual Basic</strong>, which sparked my passion for software development. From building Windows applications with <strong>VB.NET</strong>, I transitioned to web development, where I now specialize in creating robust solutions with <strong>Laravel</strong> and <strong>WordPress Core</strong>.
+</p>
 
-I bridge traditional desktop application principles with modern web technologies, applying **KISS, DRY, SOLID, SOAP, and YAGNI** principles to deliver maintainable, high-quality code.
+<p>
+  I bridge traditional desktop application principles with modern web technologies, applying <strong>KISS, DRY, SOLID, SOAP, and YAGNI</strong> principles to deliver maintainable, high-quality code.
+</p>
 
 <hr>
 
@@ -221,6 +209,7 @@ I bridge traditional desktop application principles with modern web technologies
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 
 
 <!--
