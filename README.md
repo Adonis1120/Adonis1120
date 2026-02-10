@@ -124,6 +124,200 @@ Live and real-time scoring for contests (pageants, street dancing, singing compe
 </ul> 
 
 </td>
+
+<td width="50%">
+
+<h3 align="center">CoopMS</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/coopms.png" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+</p>
+
+![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+<h4>Cooperative Management System</h4>
+
+<p>
+Desktop-based system for managing cooperatives including membership, transactions, and reporting.
+</p>
+</div>
+
+<ul>
+<li>Member management & transaction tracking</li>
+<li>Reporting engine for cooperative operations</li>
+<li>Built with VB.NET and SQL Server</li>
+</ul> 
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">CampusQR</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/campusqr.png" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+</p>
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+<h4>QR Code-Based Student Attendance</h4>
+
+<p>
+Tracks student entry logs and presence on campus (not yet in production).
+</p>
+</div>
+
+<ul>
+<li>QR-based student attendance tracking</li>
+<li>Built with Laravel, Livewire, MySQL</li>
+</ul> 
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">WorkforceQR</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/workforceqr.png" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+</p>
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+<h4>QR Code-Based Employee Attendance</h4>
+
+<p>
+Monitors employee time-in/time-out and daily tracking (ongoing project).
+</p>
+</div>
+
+<ul>
+<li>Employee attendance & workforce monitoring</li>
+<li>Built with Laravel, Livewire, MySQL</li>
+</ul> 
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">DCE Website</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/dce_website.png" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+</a>  
+</p>
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+<h4>City Mayor Personal & Political Website</h4>
+
+<p>
+Includes social networking, chat messaging, and forum functionalities.
+</p>
+</div>
+
+<ul>
+<li>Custom WordPress blocks and forum integration</li>
+<li>Built for DCE Tabuk City Mayor</li>
+</ul> 
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">RP5 Cargo Limited (UK)</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/rp5_cargo.png" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+</a>  
+</p>
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+<h4>Corporate Website</h4>
+
+<p>
+Includes shipment tracking, client dashboard, and enterprise-grade theme customization.
+</p>
+</div>
+
+<ul>
+<li>Custom WordPress solutions & plugin/theme customization</li>
+<li>Built for RP5 Cargo Limited (UK)</li>
+</ul> 
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Various US Clients</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/us_clients.png" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+</a>  
+</p>
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+<h4>Corporate & Small Business Websites</h4>
+
+<p>
+Developed corporate and client-specific websites while at Catch Creative Labs.
+</p>
+</div>
+
+<ul>
+<li>Custom WordPress solutions & plugin/theme customization</li>
+<li>Multi-disciplinary team collaboration</li>
+</ul> 
+
+</td>
+
 </tr>
 </table>
 </div>
