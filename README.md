@@ -115,18 +115,21 @@ financial categorization, and government reporting.
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h4>Customized Online Tabulation System</h4>
 
 <p>
-Live and real-time scoring for contests (pageants, street dancing, singing competitions, etc.).
+A powerful and flexible online tabulation system designed to manage and show results of pageants, contests, and competitive events in real-time.
 </p>
 </div>
 
 <ul>
 <li>Real-time contest scoring</li>
-<li>Built with Laravel, Livewire, MySQL</li>
+<li>Customizable event setup</li>
+<li>Ranking and elemination process</li>
+<li>Built with Laravel MVC, JavaScript, Bootstrap</li>
 </ul> 
 
 </td>
