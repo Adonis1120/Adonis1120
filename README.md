@@ -1,3 +1,79 @@
+# 👋 Hi, I’m Adonis Imperial
+
+### Full-Stack Web Developer | Systems Architect | Government IT Consultant
+
+I design, build, and maintain **secure, high-performance web systems** for cooperatives, MSMEs, and public sector institutions.  
+My work focuses on **data accuracy, scalability, compliance, and long-term sustainability**.
+
+---
+
+## 🏛️ Current Focus
+
+- 🚀 Lead Developer of **iCoopHub 360** – Cooperative Profiling & Monitoring System  
+- ⚡ Laravel 12 + Livewire 3 Performance Optimization  
+- 🔐 Secure, scalable, and audit-ready government systems  
+- 📊 Data-driven dashboards for decision-making
+
+---
+
+## 🧠 Tech Stack
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-E34F26?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+
+### Database & Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🗂️ Featured Projects
+
+### 🏢 iCoopHub 360
+**Web-based Cooperative Profiling & Monitoring System**
+
+- Centralized cooperative databank  
+- Financial category assessment & compliance tracking  
+- Live dashboards for planning and reporting  
+- Built with **Laravel 12, Livewire 3, Tailwind, MySQL**
+
+🔗 *Private Government System*
+
+---
+
+### 📈 Cooperative Ranking & Analytics Engine
+- Automated ranking logic
+- Audit-safe activity tracking
+- Optimized queries and caching strategies
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adonisimperial&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adonisimperial&layout=compact)
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: **Coming Soon**
+- 📧 Email: **Available upon request**
+- 💼 Focus: Government, Cooperatives, Enterprise Systems
+
+---
+
+> “Build systems that outlast trends, not just ship features.”
+
+
 💻 <strong>Software Engineer</strong>
 <br><em>Desktop Application Developer turned Web Developer</em>
 <br>👋 Hi, I’m Adonis Bilagot Imperial
