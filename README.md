@@ -384,14 +384,13 @@ Desktop-based system for managing cooperatives including membership, transaction
 <hr>
 
 <!-- Static GitHub Stats -->
-<!--
+<div align="center">
 <h2 align="center">Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adonis1120&show_icons=true&theme=default&count_private=true&token=YOUR_TOKEN_HERE" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis1120&layout=compact&theme=default&count_private=true&token=YOUR_TOKEN_HERE" alt="Top Languages"/>
-</p>
--->
+![](https://github-readme-stats.vercel.app/api?username=Adonis1120&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adonis1120&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis1120&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 <br><br>
 
