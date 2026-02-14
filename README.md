@@ -397,7 +397,7 @@ Desktop-based system for managing cooperatives including membership, transaction
 
 <h2 align="center">Top Contributed Repo</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=Adonis1120&hide=B,B%2B&hide_contributor_rank=false&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Adonis1120&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 </div>
 
