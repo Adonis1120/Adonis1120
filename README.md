@@ -390,6 +390,7 @@ Desktop-based system for managing cooperatives including membership, transaction
 ![](https://github-readme-stats.vercel.app/api?username=Adonis1120&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Adonis1120&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis1120&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B%2B&hide_contributor_rank=false&limit=5)
 
 <h2 align="center">GitHub Trophies</h2>
 
