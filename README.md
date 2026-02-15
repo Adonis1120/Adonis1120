@@ -399,7 +399,7 @@ Desktop-based system for managing cooperatives including membership, transaction
 
 <h2 align="center">GitHub Trophies</h2>
 
-! <-- ![](https://github-profile-trophy.vercel.app/?username=adonisimperial&theme=transparent&no-frame=false&no-bg=true&margin-w=4) -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=adonisimperial&theme=transparent&no-frame=false&no-bg=true&margin-w=4) -->
 <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=adonisimperial" />
 
 <h2 align="center">Top Contributed Repo</h2>
