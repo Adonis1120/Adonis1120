@@ -403,7 +403,8 @@ Desktop-based system for managing cooperatives including membership, transaction
 
 <h2 align="center">Top Contributed Repo</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=adonisimperial&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=adonisimperial&limit=5&theme=transparent&combine_all_yearly_contributions=true)-->
+<img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=adonisimperial" />
 
 </div>
 
