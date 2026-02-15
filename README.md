@@ -6,11 +6,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 <h1 align="center">Hi 👋, I’m Adonis Imperial</h1>
-<h3 align="center">Full-Stack Web Developer • Systems Architect • Software Engineer</h3>
+<h3 align="center">Web Developer • Software Engineer</h3>
 
-<h4 align="center">
-  I am a Software Engineer who has now specialized in web development. I started web development in 2018, 8 years ago. I have successfully designed, built and maintained secure, high-performance web systems for cooperatives and community events. I seek to apply my expertise at a higher level by contributing to impactful, production-grade systems, and being hired as a developer would be an honor.
-</h4>
+<div align="center">
+<p>
+I specialize in modern web development with <strong>8+ years of experience</strong>, focusing on Laravel, PHP, and WordPress. I’ve built secure, scalable systems for cooperatives, communities, and businesses.  I currently serve as <strong>IT Officer at the City Government of Tabuk</strong>. Previously, I worked as a Web Developer at <strong>Catch Creative Labs</strong> and continue contributing to projects as a freelance developer.
+</p>
+<p>
+I deliver clean, maintainable, production‑ready solutions that make a real impact.
+</p>
+</div>
 
 <hr>
 
@@ -47,6 +52,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="75" height="75"/>
+
+  <br>
+  <small><i>See more detailed technologies and skills below.</i></small>
 </div>
 
 <br>
@@ -438,28 +446,93 @@ Desktop-based system for managing cooperatives including membership, transaction
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Flux_UI-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Flux UI"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
 
 ### **Backend & Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TALL Stack](https://img.shields.io/badge/TALL_Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-007396?style=for-the-badge&logo=linux&logoColor=white)
 
-### **Tools & Operations**
+### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
+<img src="https://img.shields.io/badge/Artisan-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Artisan"/>
+<img src="https://img.shields.io/badge/Tinker-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Tinker"/>
+<img src="https://img.shields.io/badge/Pest-FF6C37?style=for-the-badge&logo=php&logoColor=white" alt="PHP Pest"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Command_Line-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Command Line"/>
+<img src="https://img.shields.io/badge/Browser_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Browser DevTools"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+<img src="https://img.shields.io/badge/phpMyAdmin-FF6C37?style=for-the-badge&logo=mysql&logoColor=white" alt="phpMyAdmin"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=orange" alt="Firebase"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+
+### Local Development
+<p>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
+<img src="https://img.shields.io/badge/Local-0078D7?style=for-the-badge&logo=wordpress&logoColor=white" alt="Local by Flywheel"/>
+</p>
+
+### Laravel Ecosystem & Features
+<p>
+<img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent ORM"/>
+<img src="https://img.shields.io/badge/Middleware-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Middleware"/>
+<img src="https://img.shields.io/badge/Policies-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Policies"/>
+<img src="https://img.shields.io/badge/Artisan_Commands-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Artisan Commands"/>
+<img src="https://img.shields.io/badge/Task_Scheduling-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Task Scheduling"/>
+<img src="https://img.shields.io/badge/Queues-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Queues"/>
+<img src="https://img.shields.io/badge/Notifications-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Notifications"/>
+<img src="https://img.shields.io/badge/Mail-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Mail"/>
+<img src="https://img.shields.io/badge/Services-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Services"/>
+<img src="https://img.shields.io/badge/Caching-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Caching"/>
+</p>
+
+### Payment Integration
+<p>
+<img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+</p>
+
+### Real-Time Communication
+<p>
+<img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white" alt="Pusher"/>
+</p>
+
+### Visualization
+<img src="https://img.shields.io/badge/Chart.js-F7931E?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+
+### Database & Performance
+<p>
+<img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Design"/>
+<img src="https://img.shields.io/badge/Query_Optimization-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Query Optimization"/>
+<img src="https://img.shields.io/badge/Performance_Optimization-DC382D?style=for-the-badge&logo=laravel&logoColor=white" alt="Performance Optimization"/>
+</p>
+
+### **Operations**
 ![Server Management](https://img.shields.io/badge/Server_Management-009639?style=for-the-badge&logo=serverless&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-0CAA41?style=for-the-badge&logo=seo&logoColor=white)
 
 ---
 
-## 🔐 Specialized Skills
+## Specialized Skills
 
 - **Code/Query Optimization** & **Web Performance** tuning
 - **Web Security**: SQL injection prevention, CSRF protection, rate limiting, XSS mitigation, DDoS protection
 - **Email Security**: SPF/DKIM/DMARC configuration
 - **Server Management**: Hostinger, cron jobs, email systems, domain/hosting setup
 - **Methodologies**: SCSS, SMACSS, BEM architecture
+
+### Software Engineering Concepts
+- **Design Patterns:** Repository Pattern, Service Layer, Observer Pattern
+- **Architecture:** MVC, RESTful API Design, Scalable Backend Architecture
+- **Security:** Authentication, Authorization, Role-Based Access Control (RBAC)
+- **Best Practices:** Clean Code, SOLID, DRY, KISS, SOAP, YAGNI, Database Normalization
 
 
 
